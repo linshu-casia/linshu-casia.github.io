@@ -25,10 +25,10 @@ author:
   # Biographic information
   avatar           : "linshu.jpg"
   name             : "LIN Shu 林 舒"
-  pronouns         : “he/his" # example: "she/her"
-  bio              : "**Associate Professor**\\\\National Key Laboratory of Cognition and Decision Intelligence for Complex Systems (C^2DL)\\\\Institute of Automation\\\\Chinese Academy of Sciences"
+  pronouns         : # example: "she/her"
+  bio              : "Associate Professor"
   location         : "Beijing, China"
-  employer         : "Institute of Automation, Chinese Academy of Sciences"
+  employer         : "Institute of Automation<br>Chinese Academy of Sciences"
   uri              : # URL
   email            : "shu.lin@ia.ac.cn"
 
