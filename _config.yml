@@ -9,7 +9,7 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "air" # Currently available options are "default", "air"
-title                    : "LIN Shu / Academic Portfolio"
+title                    : "LIN Shu / CASIA"
 title_separator          : "-"
 name                     : &name "LIN Shu"
 description              : &description "LIN Shu's academic portfolio"   # Update this with a general description of your site, this is the default if not overridden by a page
@@ -23,14 +23,14 @@ baseurl                  : "" # the subpath of your site, e.g. "/blog"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
-  name             : "Your Sidebar Name"
-  pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
-  location         : "Earth"
-  employer         : "Red Brick University"
+  avatar           : "linshu.jpg"
+  name             : "LIN Shu 林 舒"
+  pronouns         : “he/his" # example: "she/her"
+  bio              : "**Associate Professor**\\\\National Key Laboratory of Cognition and Decision Intelligence for Complex Systems (C^2DL)\\\\Institute of Automation\\\\Chinese Academy of Sciences"
+  location         : "Beijing, China"
+  employer         : "Institute of Automation, Chinese Academy of Sciences"
   uri              : # URL
-  email            : "none@example.org" 
+  email            : "shu.lin@ia.ac.cn"
 
   # Academic websites
   academia         : # URL
