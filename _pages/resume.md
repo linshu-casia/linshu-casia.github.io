@@ -12,11 +12,11 @@ redirect_from:
 Work experience
 ------
 * 2025: Associate Researcher
-  * National Key Laboratory of Cognition and Decision Intelligence for Complex Systems (C^2^DL) 
+  * National Key Laboratory of Cognition and Decision Intelligence for Complex Systems (C<sup>2</sup>DL) 
   * Institute of Automation, Chinese Academy of Sciences
 
 * 2021: Assistant Researcher
-  * National Key Laboratory of Cognition and Decision Intelligence for Complex Systems (C^2^DL) 
+  * National Key Laboratory of Cognition and Decision Intelligence for Complex Systems (C<sup>2</sup>DL) 
   * Institute of Automation, Chinese Academy of Sciences
 
 Education
