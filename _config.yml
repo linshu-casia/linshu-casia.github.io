@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-site_theme               : "air" # Currently available options are "default", "air"
+site_theme               : "default" # Currently available options are "default", "air"
 title                    : "LIN Shu / CASIA"
 title_separator          : "-"
 name                     : &name "LIN Shu"
@@ -28,7 +28,7 @@ author:
   pronouns         : # example: "she/her"
   bio              : "Associate Professor"
   location         : "Beijing, China"
-  employer         : "Institute of Automation<br>Chinese Academy of Sciences"
+  employer         : "Institute of Automation,<br>Chinese Academy of Sciences"
   uri              : # URL
   email            : "shu.lin@ia.ac.cn"
 
