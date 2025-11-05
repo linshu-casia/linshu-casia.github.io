@@ -21,7 +21,7 @@ Work experience
 
 Education
 ------
-* Ph.D in Computer Software and Theory, Peking University, 2021
+* Ph.D. in Computer Software and Theory, Peking University, 2021
 * B.S. in Computer Science and Technology, Peking University, 2013
 
 Publications
