@@ -32,7 +32,9 @@ Publications
 
 Service
 ------
-Technical program committee: LLanMER 2025
+* Program Committee Member: LLanMER 2025
+* Journal Reviewer: TSE
+* Conference Reviewer: AAAI, IJCAI, NeurIPS, FSE, ECAI, ICUS, CoG
   
 <!-- Talks
 ------
