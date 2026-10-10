@@ -34,7 +34,7 @@ Service
 ------
 * Program Committee Member: LLanMER 2025
 * Journal Reviewer: TSE
-* Conference Reviewer: AAAI, IJCAI, NeurIPS, FSE, ECAI, ICUS, CoG
+* Conference Reviewer: AAAI, IJCAI, NeurIPS, FSE, AAMAS, ECAI, ICUS, CoG
   
 <!-- Talks
 ------
